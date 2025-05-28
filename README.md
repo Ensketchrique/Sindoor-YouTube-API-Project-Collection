@@ -66,5 +66,5 @@ To showcase:
 
 If you'd like to connect or know more:
 
-- [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/amitpanwar94/))
-- [Email](itsme.amitpanwar@gmail.com)
+- ([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/amitpanwar94/))
+- (itsme.amitpanwar@gmail.com)

@@ -38,4 +38,33 @@ To showcase:
 
 ## 📂 Project Structure
 
+📁 youtube-operation-sindoor-dashboard/
+│
+├── data/
+│ └── operation_sindoor_data.csv
+│
+├── powerbi_dashboard/
+│ └── operation_sindoor_dashboard.pbix
+│
+├── images/
+│ └── dashboard_preview.png
+│
+├── scripts/
+│ └── fetch_youtube_data.py
+│
+└── README.md
 
+
+## 🧠 Learnings
+
+- Working with APIs for real-time data extraction
+- Data cleaning for dashboard readiness
+- Using DAX for KPIs like reaction per comment, like rate, etc.
+- Dashboard design with interactivity and filtering
+
+## 📬 Contact
+
+If you'd like to connect or know more:
+
+- [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/amitpanwar94/))
+- [Email](itsme.amitpanwar@gmail.com)
